@@ -10,10 +10,18 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/khizr-ameer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://twitter.com/khizr_ameer" target="_blank"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.facebook.com/khizar.ameer.ch" target="_blank"><img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.instagram.com/khizr.ameer" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/khizr-ameer" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://twitter.com/khizr_ameer" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X/Twitter" height="40" width="40" />
+  </a>
+  <a href="https://www.facebook.com/khizar.ameer.ch" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
+  </a>
+  <a href="https://www.instagram.com/khizr.ameer" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+  </a>
 </p>
 
 ---
