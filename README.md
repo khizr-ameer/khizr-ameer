@@ -1,19 +1,19 @@
-﻿<h1 align="center">Hi, I'm Khizar Ameer</h1>
+<h1 align="center">Hi, I'm Khizar Ameer</h1>
 <h3 align="center">🚀 Passionate Mobile & Web Developer exploring and building innovative tech solutions 📱💻</h3>
 
 ---
 
-
 📧 Reach me at: **khizrr.ameer@gmail.com**
-
 
 ---
 
 ### 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/khizr-ameer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://www.facebook.com/khizar.ameer.ch" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge" /></a>
-  <a href="https://www.instagram.com/khizr.ameer" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/khizr-ameer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://twitter.com/khizr_ameer" target="_blank"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.facebook.com/khizar.ameer.ch" target="_blank"><img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.instagram.com/khizr.ameer" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ---
