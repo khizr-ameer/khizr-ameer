@@ -4,6 +4,7 @@
 ---
 
 📧 Reach me at: **khizrr.ameer@gmail.com**
+🌐 Portfolio: [https://khizar-ameer-portfolio.onrender.com](https://khizar-ameer-portfolio.onrender.com)
 
 ---
 
@@ -68,3 +69,4 @@
 ![XML](https://img.shields.io/badge/XML-E44D26?style=for-the-badge)
 
 ---
+
