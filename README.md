@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Khizar Ameer</h1>
-<h3 align="center">🚀 Passionate Mobile & Web Developer exploring and building innovative tech solutions 📱💻</h3>
+<h3 align="center"> Passionate Mobile & Web Developer exploring and building innovative tech solutions 📱💻</h3>
 
 ---
 
